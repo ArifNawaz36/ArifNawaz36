@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArifNawaz36
+- 👋 Hi, I’m Arif Nawaz
 - 👀 I’m interested in Backend development using NodeJS, Typescript and MongoDB. I am very open to learn new technologies and tools
 - 🌱 I’m currently learning about cloud native technologies like Docker and Kubernetes. Also learning about the Blockhain as well
 - 💞️ I’m looking to collaborate on Blockchain or other challenging Backend projects
